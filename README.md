@@ -27,7 +27,12 @@ code setup.bat
 :https://web.whatsapp.com/94304745-0eab-4908-813c-56998b3c2b05
 
 ```
-5.anved data incoferi system
+5.tree /f menampilkan folder yang dibuat
+```
+:https://web.whatsapp.com/65691129-482d-41b0-a906-e6c47872fbcb
+
+```
+6.anved data incoferi system
 ```
 
 1 selective backup
