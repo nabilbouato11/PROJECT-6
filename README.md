@@ -29,12 +29,12 @@ code setup.bat
 ```
 5.tree /f menampilkan folder yang dibuat
 ```
-:https://web.whatsapp.com/65691129-482d-41b0-a906-e6c47872fbcb
-
+https://web.whatsapp.com/67b040be-016e-4e88-83b8-acddbf9237c
 ```
 6.anved data incoferi system
 ```
 
+```
 1 selective backup
 
 2 incrental backup
@@ -45,4 +45,6 @@ code setup.bat
 
 5 exit
 
+```
 :https://web.whatsapp.com/94304745-0eab-4908-813c-56998b3c2b05
+```
