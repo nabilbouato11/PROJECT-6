@@ -2,38 +2,39 @@
 1.membuat script
 ```
 
-:https://web.whatsapp.com/26f1b961-be39-4d3b-ab0c-4522242b1684
+https://drive.google.com/file/d/1o247xROsLS4OvQgr35novFyehx4mVZfI/view?usp=drivesdk
+
 ```
 code setup.bat
-
-```
-```
-2.mebuat script recoveri
 ```
 
-:https://web.whatsapp.com/1dcfeec6-f7a6-4ff0-97f2-0afb71f58f6
+```
+2.mebuat script advenced data recoveri recovery 
+```
+
+https://drive.google.com/file/d/1SRJKeB68eSKxfyL7oVg7zUBOTnWh3jrL/view?usp=drivesdk
 
 
 ```
 3.membuat scrpt status backup
 ```
+https://drive.google.com/file/d/1kG6mp-IkipXuU00UikeJU3bzH5NSlZiB/view?usp=drivesdk
 
-:https://web.whatsapp.com/c5263843-1e22-4025-aa6c-2704e0520c60
 
 ```
 4.membuat script folder semester beerta file
 ```
 
-:https://web.whatsapp.com/94304745-0eab-4908-813c-56998b3c2b05
+https://drive.google.com/file/d/1h2_R-fQq0FDlAGf7_SUgXFnWsEuCnIVM/view?usp=drivesdk
 
 ```
 5.tree /f menampilkan folder yang dibuat
 ```
-https://web.whatsapp.com/67b040be-016e-4e88-83b8-acddbf9237c
+https://drive.google.com/file/d/1VOQafj6hZt2o1_eihuBdn2UfSujz1AQL/view?usp=drivesdk
 ```
 6.anved data incoferi system
 ```
-
+https://drive.google.com/file/d/1aWY1BlHs2Irz0-aMBykGkqfbAt05jOyQ/view?usp=drivesdk
 ```
 1 selective backup
 
@@ -46,5 +47,4 @@ https://web.whatsapp.com/67b040be-016e-4e88-83b8-acddbf9237c
 5 exit
 
 ```
-:https://web.whatsapp.com/94304745-0eab-4908-813c-56998b3c2b05
-```
+
